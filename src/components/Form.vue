@@ -3,7 +3,7 @@
 <form v-on:submit="submitForm">
   <label for="">Task  </label>
   <input type="text" placeholder="Enter task" v-model="text">
-  <label for="">Reminder  </label>
+  <label for="">Reminder  </label>gi
   <select name="" id="" v-model="reminder" >
     <option value="true">true</option>
     <option value="false">false</option>
